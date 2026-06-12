@@ -66,11 +66,3 @@ contact:    guranshcodes@outlook.com
 
 </div>
 
----
-
-<div align="center">
-// still compiling... more projects on the way
-
-![Profile Views](https://komarev.com/ghpvc/?username=GuranshCodes&color=00E5FF&style=flat-square&label=profile+views)
-
-</div>
