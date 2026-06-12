@@ -1,31 +1,93 @@
-# 👋 Hi, I'm Guransh
+<div align="center">
+╔══════════════════════════════════════════════════════════╗
 
+║            INITIALIZING DEVELOPER PROFILE...             ║
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00A9FF&center=false&vCenter=false&lines=Student+Developer;Tech+Enthusiast;Learning+Java%2C+HTML+%26+CSS;Building+cool+projects)](https://git.io/typing-svg)
+║  ██████╗ ██╗   ██╗██████╗  █████╗ ███╗  ██╗███████╗██╗  ║
 
-💻 **Student Developer**  
-🔌 **Tech Enthusiast**  
-🎓 Proeffient & Always Learning **Java, HTML, CSS & Python**  
-📈 Always improving and building new projects  
+║ ██╔════╝ ██║   ██║██╔══██╗██╔══██╗████╗ ██║██╔════╝██║  ║
 
----
+║ ██║  ███╗██║   ██║██████╔╝███████║██╔██╗██║███████╗██║  ║
 
-## </> Languages & Tools
+║ ██║   ██║██║   ██║██╔══██╗██╔══██║██║╚████║╚════██║██╗  ║
 
-<!-- Row of badges -->
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />&nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />&nbsp;
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+║ ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚███║███████║███╗ ║
 
-- **Languages:** Java, Python, HTML, CSS  
-- **Tools:** GitHub, VS Code  
+║  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚══╝ ║
+
+║                      [ READY ]                           ║
+
+╚══════════════════════════════════════════════════════════╝
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Student+Developer+%2F%2F+Always+Building;Java+%7C+Python+%7C+HTML+%7C+CSS;Turning+ideas+into+working+code;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 📩 Contact
-**Email:** guranshcodes@outlook.com
+## `$ whoami`
+
+```yaml
+name:       Guransh
+role:       Student Developer
+status:     Actively learning & building
+languages:  [Java, Python, HTML, CSS]
+tools:      [VS Code, GitHub]
+interests:  [Building projects, Tech, Problem Solving]
+contact:    guranshcodes@outlook.com
+```
+
+---
+
+## `$ ls ./skills`
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat stats.log`
+
+<div align="center">
+
+![Guransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuranshCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuranshCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GuranshCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF)
+
+</div>
+
+---
+
+## `$ ping guransh`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/guranshcodes%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guranshcodes@outlook.com)
+
+*Open to collabs, feedback, and connecting with fellow developers.*
+
+</div>
+
+---
+
+<div align="center">
+// still compiling... more projects on the way
+
+![Profile Views](https://komarev.com/ghpvc/?username=GuranshCodes&color=00E5FF&style=flat-square&label=profile+views)
+
+</div>
