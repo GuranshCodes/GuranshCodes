@@ -1,23 +1,6 @@
 <div align="center">
-╔══════════════════════════════════════════════════════════╗
 
-║            INITIALIZING DEVELOPER PROFILE...             ║
-
-║  ██████╗ ██╗   ██╗██████╗  █████╗ ███╗  ██╗███████╗██╗  ║
-
-║ ██╔════╝ ██║   ██║██╔══██╗██╔══██╗████╗ ██║██╔════╝██║  ║
-
-║ ██║  ███╗██║   ██║██████╔╝███████║██╔██╗██║███████╗██║  ║
-
-║ ██║   ██║██║   ██║██╔══██╗██╔══██║██║╚████║╚════██║██╗  ║
-
-║ ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚███║███████║███╗ ║
-
-║  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚══╝ ║
-
-║                      [ READY ]                           ║
-
-╚══════════════════════════════════════════════════════════╝
+<h1>Hey, I'm Guransh 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Student+Developer+%2F%2F+Always+Building;Java+%7C+Python+%7C+HTML+%7C+CSS;Turning+ideas+into+working+code;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
