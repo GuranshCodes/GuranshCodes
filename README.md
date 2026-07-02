@@ -46,9 +46,9 @@ contact:    guranshcodes@outlook.com
 
 <div align="center">
 
-![Guransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuranshCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GuranshCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuranshCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuranshCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GuranshCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF)
 
@@ -65,4 +65,3 @@ contact:    guranshcodes@outlook.com
 *Open to collabs, feedback, and connecting with fellow developers.*
 
 </div>
-
