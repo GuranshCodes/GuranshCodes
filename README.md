@@ -46,11 +46,13 @@ contact:    guranshcodes@outlook.com
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GuranshCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9)
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuranshCodes&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuranshCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GuranshCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF)
+<img width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuranshCodes&theme=tokyonight"/>
+
+<img width="345" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuranshCodes&theme=tokyonight"/>
 
 </div>
 
